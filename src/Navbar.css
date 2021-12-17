@@ -1,0 +1,15 @@
+*{font-family: 'Roboto', sans-serif;}
+.active {
+    color: red;
+}
+nav {
+    display: flex;
+    flex:auto;
+}
+a {
+    display: flex;
+    flex: auto;
+      list-style-type: none;
+  margin: 0;
+  padding: 0;
+}

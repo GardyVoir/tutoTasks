@@ -1,0 +1,20 @@
+.task {
+    list-style-type: none;
+    padding: 10px;
+  appearance: none;
+  position: relative;
+  top: 13.33333px;
+  transition: all 0.15s ease-out 0s;
+  background: #cbd1d8;
+  border: none;
+  color: #fff;
+  cursor: pointer;
+  margin-right: 0.5rem;
+  outline: none;
+  position: relative;
+  z-index: 1000;
+}
+
+.task-completed {
+text-decoration: line-through;
+}
